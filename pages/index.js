@@ -15,7 +15,7 @@ export default function Home({ allPostsData }) {
         <p>Hello, I'm Hegi Tri Saputra, currently work at radyalabs in bandung, west java, indonesia. I'm living G-Land cilengkrang residence.</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          <a href="https://nextjs.org/learn" crossorigin>our Next.js tutorial</a>.)
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
